@@ -1,7 +1,7 @@
 {
     "questions": [{
       "key": "intro",
-      "question": "\nThis template configures a pipeline that deploys a serverless application to a testing and a production stage.\n",
+      "question": "\nThis template configures a pipeline that deploys a serverless application to a dev, testing and a production stage.\n",
       "kind": "info"
     }, {
       "key": "pipeline_user_aws_access_key_id_variable_name",
